@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+.employee-card {
+    min-width: 25%;
+    min-height: 100%;
+    border-radius: 8;
+    border: solid none 2px;
+    margin: 25px;
+  }
+
+  .team-heading {
+    background: darkslategray;
+    color: #f1f7ed;
+    border-radius: 0;
+  }
