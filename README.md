@@ -37,12 +37,6 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Screenshot
-
-```
-![My-Team](https://user-images.githubusercontent.com/117549917/221483349-df95ec8a-ff51-415a-879f-95259bef764c.png)
-```
-
 ## Walkthrough Video
 
 ```
